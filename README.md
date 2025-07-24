@@ -3,6 +3,7 @@ This is a simple and responsive calculator web app built with pure HTML, CSS, an
 
 🚀 Live Preview
 You can host this project on GitHub Pages or open index.html locally in your browser.
+ https://pythoncoder08765.github.io/calculator/
 
 📁 Folder Structure
 graphql
